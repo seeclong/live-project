@@ -1,4 +1,4 @@
-# live-project
+# live-project / 2019.11.2
 ## UI_2文件夹为最后版本的界面与接口代码
 - 由于时间紧迫没有打包成exe
 - 需要用Pycharm等工具安装依赖后打开
